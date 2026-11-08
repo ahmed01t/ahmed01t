@@ -7,7 +7,7 @@
   <p>I build web apps and APIs that use AI to answer questions from product catalogs and source code.</p>
   <a href="https://www.linkedin.com/in/ahmed-tanveer-80457b336/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/ahmed01t?tab=repositories"><img src="https://img.shields.io/badge/View_repositories-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View GitHub repositories" /></a>
-  <p><sub>Full-Stack Developer Intern at LogixZone · BS Computer Science, PUCIT</sub></p>
+  <p><sub>BS Computer Science, PUCIT</sub></p>
 </div>
 
 ---
