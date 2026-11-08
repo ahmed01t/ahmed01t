@@ -14,7 +14,7 @@ I build web applications with Python and TypeScript, with a focus on APIs, datab
 
 | Role focus | Experience | Education |
 | --- | --- | --- |
-| Python and TypeScript · Web apps, APIs, and applied AI | Full-Stack Developer Intern · LogixZone | BS Computer Science · PUCIT |
+| Python and TypeScript · Web apps, APIs, and applied AI | Full-Stack Developer LogixZone | BS Computer Science · PUCIT |
 
 ## Selected work
 
